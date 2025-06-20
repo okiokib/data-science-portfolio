@@ -12,7 +12,7 @@ Analisis performa harian, mingguan, dan bulanan dari data downtime mesin produks
 - 📈 Analisis: Trend waktu, heatmap, ringkasan downtime, klasifikasi kondisi mesin
 - 📊 Output: Dashboard analisis dan laporan performa mesin
 - ⚙️ Tools: Pandas, Matplotlib, Seaborn, Scikit-learn
-- 🔗 [GitHub Repo](https://github.com/oki/machine-downtime-analysis)
+- 🔗 [GitHub Repo](https://github.com/okiokib/Analisis-Kinerja-Operasional-Alat-Berat.git)
 
 ---
 
