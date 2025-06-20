@@ -28,6 +28,6 @@ Estimasi anggaran proyek konstruksi berdasarkan fitur proyek.
 ---
 
 ## 📬 Kontak
-- 💼 [LinkedIn](https://www.linkedin.com/in/oki-example)*
-- 📧 okibagus264@gmail.com
+- 💼 : www.linkedin.com/in/oki-bagus-rahmat-prakoso 
+- 📧 : okibagus264@gmail.com
 
