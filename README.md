@@ -6,7 +6,7 @@ Halo! Saya Oki, seorang Data Science enthusiast dengan ketertarikan pada analisi
 
 
 ## 1. ⚙️ Performance Analysis – Machine Downtime Monitoring
-Analisis performa harian, mingguan, dan bulanan dari data downtime mesin produksi.
+Analisis performa dari data downtime mesin produksi.
 
 - 📅 Periode data: Nov 2021 – Jun 2022
 - 📈 Analisis: Trend waktu, heatmap, ringkasan downtime, klasifikasi kondisi mesin
