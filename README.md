@@ -10,20 +10,20 @@ Analisis performa dari data downtime mesin produksi.
 
 - 📅 Periode data: Nov 2021 – Jun 2022
 - 📈 Analisis: Trend waktu, heatmap, ringkasan downtime, klasifikasi kondisi mesin
-- 📊 Output: Dashboard analisis dan laporan performa mesin
+- 📊 Output:  analisis dan laporan performa mesin
 - ⚙️ Tools: Pandas, Matplotlib, Seaborn, Scikit-learn
 - 🔗 [GitHub Repo](https://github.com/okiokib/Analisis-Kinerja-Operasional-Alat-Berat.git)
 
 ---
 
-## 2. 💰 Budget Planning – Construction Cost Estimation
-Estimasi anggaran proyek konstruksi berdasarkan fitur proyek.
+## 2. 🪨 Prediksi Harga Batu Bara dengan ARIMA
+Analisis deret waktu harga batu bara 2001–2021 dan prediksi tren hingga 2032.
 
-- 🏗️ Dataset: Construction cost estimation (dari GitHub open data)
-- 🔍 Analisis: Exploratory Data Analysis (EDA), prediksi biaya dengan regresi
-- 🧠 Model: Linear Regression, Random Forest
-- 📈 Visualisasi: Boxplot, distribusi, scatter, feature importance
-- 🔗 [GitHub Repo](https://github.com/oki/construction-cost-estimation)
+- 🛢️ Data: Harga batu bara global (sumber: Our World in Data)
+- 📊 Analisis: Preprocessing time series, pemodelan ARIMA, evaluasi performa
+- 📈 Hasil: MAE 22.16, RMSE 26.56, dan MAPE 23.91%; tren divisualisasikan dalam grafik prediktif
+- ⚙️ Tools: Pandas, Statsmodels, Matplotlib
+- 🔗 [GitHub Repo](https://github.com/okiokib/Analisis-Harga-Batu-Bara)
 
 ---
 
