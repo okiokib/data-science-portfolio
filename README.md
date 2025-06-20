@@ -1,11 +1,11 @@
-# 📊 Oki's Data Science Portfolio
+# 📊 Oki Data Science Portfolio
 
 Halo! Saya Oki, seorang Data Science enthusiast dengan ketertarikan pada analisis data, machine learning, dan implementasi nyata di bidang industri. Berikut beberapa proyek yang telah saya kerjakan:
 
 ---
 
 
-## 1. ⚙️ Performance Analysis – Machine Downtime Monitoring
+## 1. ⚙️ Analisis-Kinerja-Operasional-Alat-Berat
 Analisis performa dari data downtime mesin produksi.
 
 - 📅 Periode data: Nov 2021 – Jun 2022
